@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE structures SYSTEM "../doc/structures.dtd">
+<structures>
+	<structure id="auScore_main" name="Human Scoring" level="15" group="main">
+		<description />
+		<sections>
+			<section id="auScore_main" name="Human Scoring" url="/auScore/AuScore/index" />
+			<section id="auScore_other" name="Template" url="/auScore/AuScore/templateExample" />
+		</sections>
+	</structure>
+</structures>
